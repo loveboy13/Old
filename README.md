@@ -25,7 +25,7 @@ git clone https://github.com/loveboy13/OLD.git
 
 cd OLD
 
-python only_old.py
+python only-old.py
 
 # update run command
 pkg install git -y
@@ -36,7 +36,7 @@ git clone https://github.com/loveboy13/OLD.git
 
 cd OLD
 
-python only_old.py
+python only-old.py
 
 # admin info
 
