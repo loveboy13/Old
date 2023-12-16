@@ -25,7 +25,7 @@ git clone https://github.com/loveboy13/OLD.git
 
 cd OLD
 
-python only_old_id.py
+python only_old.py
 
 # update run command
 pkg install git -y
