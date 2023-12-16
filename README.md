@@ -30,7 +30,7 @@ python only_old.py
 # update run command
 pkg install git -y
 
-rm -rf FILE_RANDOM_OLD
+rm -rf OLD
 
 git clone https://github.com/loveboy13/OLD.git 
 
